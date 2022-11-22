@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Giant-Swallowtail--84-_png.rf.40cd603ea95a40f972eaf30a3f85e859.jpg</filename>
+	<path>Giant-Swallowtail--84-_png.rf.40cd603ea95a40f972eaf30a3f85e859.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Giant Swallowtail</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>52</xmin>
+			<xmax>324</xmax>
+			<ymin>111</ymin>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

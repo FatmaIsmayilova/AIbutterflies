@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Mourning-Cloak--17-_png.rf.1492fa9e4b6aed1a3183c1bba9261875.jpg</filename>
+	<path>Mourning-Cloak--17-_png.rf.1492fa9e4b6aed1a3183c1bba9261875.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mourning Cloak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>55</xmin>
+			<xmax>378</xmax>
+			<ymin>109</ymin>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

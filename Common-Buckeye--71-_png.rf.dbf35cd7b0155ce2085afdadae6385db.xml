@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Common-Buckeye--71-_png.rf.dbf35cd7b0155ce2085afdadae6385db.jpg</filename>
+	<path>Common-Buckeye--71-_png.rf.dbf35cd7b0155ce2085afdadae6385db.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Common Buckeye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>57</xmin>
+			<xmax>368</xmax>
+			<ymin>80</ymin>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>
